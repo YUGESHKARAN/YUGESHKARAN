@@ -1,8 +1,8 @@
-# YUGESHKARAN
 
-## 👋 About Me
 
-Hi, I'm Yugesh Karan—a Full Stack Developer with a focus on building robust full-stack software solutions, GenAI products (Retrieval Augmented Generation systems), and application-specific agentic AI copilots. My passion lies in architecting intelligent, scalable applications that bridge the gap between cutting-edge AI and real-world business needs.
+## 👋Hi I'M Yugesh Karan
+
+Full Stack Developer with expertise in designing and developing softwares, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic AI copilots. I’m passionate about creating intelligent, scalable applications that seamlessly integrate cutting-edge AI with real-world business challenges.
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yugeshkaran01/)
 - 🤖 [ReadyTensor Profile](https://app.readytensor.ai/users/yugeshkaran01)
