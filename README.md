@@ -17,4 +17,4 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 
 ## 📝 License
 
-This repository and its content are open for learning and collaboration. See individual project folders for specific licensing information.
+This repository and its content are open for learning and collaboration. See individual repository for specific licensing information.
