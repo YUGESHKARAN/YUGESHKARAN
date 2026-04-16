@@ -4,7 +4,7 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 ## What I Build
 
 - **Full-stack applications:** End-to-end web and SaaS solutions.
-- **GenAI Products:** RAG pipelines, LLM-based tools, and AI copilots tailored for specific application domains.
+- **GenAI Products:** RAG pipelines, LLM driven systems, and domain specific AI copilots with embedding models, vector databases, and prompt orchestration.
 - **Agentic AI Solutions:** Custom agent workflows, knowledge retrieval, and context-aware automation.
 
 
