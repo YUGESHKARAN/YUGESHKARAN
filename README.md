@@ -27,7 +27,6 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>&nbsp;
