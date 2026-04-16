@@ -39,6 +39,6 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 ## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=YUGESHKARAN&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
