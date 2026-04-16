@@ -1,5 +1,11 @@
 # About Me:
 Full Stack Developer with expertise in designing and developing softwares, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic AI copilots.
+---
+## What I Build
+
+- **Full-stack applications:** End-to-end web and SaaS solutions.
+- **GenAI Products:** RAG pipelines, LLM-based tools, and AI copilots tailored for specific application domains.
+- **Agentic AI Solutions:** Custom agent workflows, knowledge retrieval, and context-aware automation.
 
 
 ## Socials:
@@ -13,6 +19,3 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YUGESHKARAN&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
