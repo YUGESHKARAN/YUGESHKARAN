@@ -1,4 +1,4 @@
-# About Me:
+## About Me
 Full Stack Developer with expertise in designing and developing softwares, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic AI copilots.
 
 ## What I Build
@@ -8,11 +8,11 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 - **Agentic AI Solutions:** Custom agent workflows, knowledge retrieval, and context-aware automation.
 
 
-## Socials:
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshkaran01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugeshkaran01@gmail.com) 
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+## Language and Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>&nbsp;
@@ -36,7 +36,7 @@ Full Stack Developer with expertise in designing and developing softwares, Gener
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
-# GitHub Stats:
+## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=YUGESHKARAN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
