@@ -1,6 +1,6 @@
 # About Me:
 Full Stack Developer with expertise in designing and developing softwares, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic AI copilots.
----
+
 ## What I Build
 
 - **Full-stack applications:** End-to-end web and SaaS solutions.
