@@ -3,9 +3,9 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 ## What I Build
 
-- **Full-stack applications:** End-to-end SaaS products.
+- **Distributed Full-Stack AI Applications:** Scalable, service-oriented end-to-end AI SaaS products.
 - **GenAI Products:** RAG pipelines, LLM driven systems, and domain specific AI copilots with embedding models, vector databases, and prompt orchestration.
-- **Distributed AI Software:**  Scalable service-oriented AI full-stack platforms.
+
 
 ## Current Projects
 
@@ -20,7 +20,7 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 <p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> —  Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
 
-<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  AI Crew system to build comprehensive learning paths for any course from beginner to advanced level.</p>
+<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  Crew AI to build comprehensive learning paths for any course from beginner to advanced level.</p>
 
 <p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> —  Simplifying faculty workflows, smart analytics and real-time student insights.</p>
 
