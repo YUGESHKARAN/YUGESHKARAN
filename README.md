@@ -7,11 +7,31 @@ Full Stack Developer with expertise in designing and developing software, Genera
 - **GenAI Products:** RAG pipelines, LLM driven systems, and domain specific AI copilots with embedding models, vector databases, and prompt orchestration.
 - **Agentic AI Solutions:** Custom agent workflows, knowledge retrieval, and context-aware automation.
 
+## Current Projects
 
-## Socials
+<p><a href="https://github.com/YUGESHKARAN/Tech-Community-App.git"><img src="./texts/tech-terminal.svg" align="absmiddle" alt="Tech Terminal" /></a> — AI assisted Tech Community platform for universities/colleges.</p>
+
+<p><a href="https://github.com/YUGESHKARAN/Assistant_Knowledge_Hub.git"><img src="./texts/assistant-knowledge-hub.svg" align="absmiddle" alt="Assistant Knowledge Hub" /></a> — A production grade AI assistant built for a Tech Community platform</p>
+
+<p><a href="https://github.com/YUGESHKARAN/DraftMate-AI.git"><img src="./texts/draftmate-ai.svg" align="absmiddle" alt="DraftMate AI" /></a> — Co-worker for an Tech Community platform to refine post content into a standardized Markdown format.</p>
+
+
+## Past Woks
+
+<p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> — Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
+
+<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> — AI powered crew system to build comprehensive learning paths for any course from beginner to advanced level.</p>
+
+<p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> — Simplifying faculty workflows, smart analytics and real-time student insights.</p>
+
+
+
+## Let's Connect
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshkaran01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugeshkaran01@gmail.com) 
 
----
+
 ## Language and Tools
 
 <p align="left">
