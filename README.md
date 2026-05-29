@@ -16,7 +16,7 @@ Full Stack Developer with expertise in designing and developing software, Genera
 <p><a href="https://github.com/YUGESHKARAN/DraftMate-AI.git"><img src="./texts/draftmate-ai.svg" align="absmiddle" alt="DraftMate AI" /></a> — Co-worker for an Tech Community platform to refine post content into a standardized Markdown format.</p>
 
 
-## Past Woks
+## Past Works
 
 <p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> —  Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
 
