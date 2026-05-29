@@ -1,11 +1,11 @@
-## About Me
+## Hi, I'm Yugesh 👋
 Full Stack Developer with expertise in designing and developing software, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic AI copilots.
 
 ## What I Build
 
 - **Full-stack applications:** End-to-end SaaS products.
 - **GenAI Products:** RAG pipelines, LLM driven systems, and domain specific AI copilots with embedding models, vector databases, and prompt orchestration.
-- **Agentic AI Solutions:** Custom agent workflows, knowledge retrieval, and context-aware automation.
+- **Distributed AI Software:**  Scalable service-oriented AI full-stack platforms.
 
 ## Current Projects
 
@@ -18,11 +18,11 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 ## Past Woks
 
-<p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> — Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
+<p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> —  Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
 
-<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> — AI powered crew system to build comprehensive learning paths for any course from beginner to advanced level.</p>
+<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  AI Crew system to build comprehensive learning paths for any course from beginner to advanced level.</p>
 
-<p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> — Simplifying faculty workflows, smart analytics and real-time student insights.</p>
+<p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> —  Simplifying faculty workflows, smart analytics and real-time student insights.</p>
 
 
 
