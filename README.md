@@ -4,7 +4,7 @@ Full Stack Developer with expertise in designing and developing software, Genera
 ## What I Build
 
 - **Distributed Full-Stack AI Applications:** Scalable, service-oriented end-to-end AI SaaS products.
-- **GenAI Products:** RAG pipelines, LLM driven systems, and domain specific AI copilots with embedding models, vector databases, and prompt orchestration.
+- **GenAI Workflows:** RAG pipelines, LLM driven systems, and domain specific AI copilots with embedding models, vector databases, and prompt orchestration.
 
 
 ## Current Projects
