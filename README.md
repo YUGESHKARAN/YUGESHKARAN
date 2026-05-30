@@ -33,6 +33,8 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 ## Past Works
 
+<p><a href="https://github.com/YUGESHKARAN/product_agent_node.git"><img src="./texts/product-control-agent.svg" align="absmiddle" alt="Mini Language Model" /></a> —  An AI copilot designed to automate and simplify CRUD operations for a product management platform. </p>
+
 <p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> —  Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
 
 <p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  Crew AI to build comprehensive learning paths for any course from beginner to advanced level.</p>
