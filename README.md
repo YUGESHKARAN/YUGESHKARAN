@@ -24,7 +24,7 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 ## Current Projects
 
-<p><a href="https://github.com/YUGESHKARAN/Tech-Community-App.git"><img src="./texts/byte-base.svg" align="absmiddle" alt="Tech Terminal" /></a> — AI assisted Tech Community platform for universities/colleges.</p>
+<p><a href="https://github.com/YUGESHKARAN/Tech-Community-App.git"><img src="./texts/bytes-base.svg" align="absmiddle" alt="Tech Terminal" /></a> — AI assisted Tech Community platform for universities/colleges.</p>
 
 <p><a href="https://github.com/YUGESHKARAN/Assistant_Knowledge_Hub.git"><img src="./texts/assistant-knowledge-hub.svg" align="absmiddle" alt="Assistant Knowledge Hub" /></a> — A production grade AI assistant built for a Tech Community platform</p>
 
