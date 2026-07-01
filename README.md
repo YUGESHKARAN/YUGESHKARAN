@@ -24,29 +24,29 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 ## Current Projects
 
-<p><a href="https://github.com/YUGESHKARAN/Tech-Community-App.git"><img src="./texts/bytes-base.svg" align="absmiddle" alt="Tech Terminal" /></a> — AI assisted Tech Community platform for universities/colleges.</p>
+<p><a href="https://github.com/YUGESHKARAN/Tech-Community-App.git"><img src="./texts/bytes-base.svg" align="absmiddle" alt="Tech Terminal" /></a> — AI assisted Tech Community platform for univer[...]
 
-<p><a href="https://github.com/YUGESHKARAN/Assistant_Knowledge_Hub.git"><img src="./texts/assistant-knowledge-hub.svg" align="absmiddle" alt="Assistant Knowledge Hub" /></a> — A production grade AI assistant built for a Tech Community platform</p>
+<p><a href="https://github.com/YUGESHKARAN/Assistant_Knowledge_Hub.git"><img src="./texts/assistant-knowledge-hub.svg" align="absmiddle" alt="Assistant Knowledge Hub" /></a> — A production grade[...]
 
-<p><a href="https://github.com/YUGESHKARAN/DraftMate-AI.git"><img src="./texts/draftmate-ai.svg" align="absmiddle" alt="DraftMate AI" /></a> — Co-worker for an Tech Community platform to refine post content into a standardized Markdown format.</p>
+<p><a href="https://github.com/YUGESHKARAN/DraftMate-AI.git"><img src="./texts/draftmate-ai.svg" align="absmiddle" alt="DraftMate AI" /></a> — Co-worker for an Tech Community platform to refine [...]
 
 
 ## Past Works
 
-<p><a href="https://github.com/YUGESHKARAN/product_agent_node.git"><img src="./texts/product-control-agent.svg" align="absmiddle" alt="Mini Language Model" /></a> —  An AI copilot designed to automate and simplify CRUD operations for a product management platform. </p>
+<p><a href="https://github.com/YUGESHKARAN/product_agent_node.git"><img src="./texts/product-control-agent.svg" align="absmiddle" alt="Mini Language Model" /></a> —  An AI copilot designed to au[...]
 
-<p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> —  Designed for NLP tasks related to CoC heroes, defenses, and troops.</p>
+<p><a href="https://github.com/YUGESHKARAN/Clash-of-Clans-Mini-Language-Model.git"><img src="./texts/mini-language-model.svg" align="absmiddle" alt="Mini Language Model" /></a> —  Designed for N[...]
 
-<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  Crew AI to build comprehensive learning paths for any course from beginner to advanced level.</p>
+<p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  Crew AI to build com[...]
 
-<p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> —  Simplifying faculty workflows, smart analytics and real-time student insights.</p>
+<p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> —  Simp[...]
 
 
 
 ## Let's Connect
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshkaran01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugeshkaran01@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshkaran01) [![email](https://img.shields.io/badge/Email-D14836?logo=gma[...]
 
 
 
@@ -56,6 +56,6 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 ## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YUGESHKARAN&theme=dark&layout=compact&hide=Jupyter%20Notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=YUGESHKARAN&theme=dark&layout=compact&hide=Jupyter%20Notebook)
 
 ---
