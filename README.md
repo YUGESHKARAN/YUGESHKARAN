@@ -43,11 +43,4 @@ Full Stack Developer with expertise in designing and developing software, Genera
 
 
 
-## Let's Connect
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshkaran01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugeshkaran01@gmail.com) 
-
-
-
 ---
