@@ -10,7 +10,7 @@
 
 </div>
 
-Full Stack Developer with expertise in designing and developing software, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic copilots.
+Full Stack AI Engineer with expertise in designing and developing software, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic copilots.
 
 ## What I Build
 
