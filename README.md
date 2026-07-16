@@ -55,5 +55,6 @@ Full Stack AI Engineer with expertise in designing and developing software, Gene
 ## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&layout=compact&hide=Jupyter%20Notebook)
+![](https://streak-stats.demolab.com/?user=YUGESHKARAN&theme=dark&hide_border=false) 
 
 ---
