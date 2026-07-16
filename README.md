@@ -1,4 +1,15 @@
-## Hi, I'm Yugesh 👋
+<h2 align="center">Hi, I'm Yugesh 👋</h2>
+
+<div align="center">
+  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yugeshkaran01/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?logo=devdotto&logoColor=white)](https://my-portfolio-eta-three-28.vercel.app/)
+[![Ready Tensor](https://img.shields.io/badge/Ready%20Tensor-FF0000?style=flat-square&logo=googleearth&logoColor=white)](https://app.readytensor.ai/users/yugeshkaran01)
+[![GitHub](https://img.shields.io/badge/-YUGESHKARAN-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YUGESHKARAN)
+[![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:yugeshkaran01@gmail.com)
+
+</div>
+
 Full Stack Developer with expertise in designing and developing software, Generative AI products (Retrieval-Augmented Generation systems), and application-specific agentic copilots.
 
 ## What I Build
@@ -40,16 +51,6 @@ Full Stack Developer with expertise in designing and developing software, Genera
 <p><a href="https://github.com/YUGESHKARAN/Mentor-Consulting-Crew.git"><img src="./texts/mentor-consulting-crew.svg" align="absmiddle" alt="Mentor Consulting Crew" /></a> —  Crew AI to build comprehensive learning paths for any course from beginner to advanced level.</p>
 
 <p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> —  Simplifying faculty workflows, smart analytics and real-time student insights.</p>
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshkaran01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugeshkaran01@gmail.com) 
-
-## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true) 
-<br/>
-![](https://streak-stats.demolab.com/?user=YUGESHKARAN&theme=dark&hide_border=false)  <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&layout=compact&hide=Jupyter%20Notebook)
 
 
 ---
