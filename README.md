@@ -59,5 +59,9 @@ Full Stack AI Engineer with expertise in designing and developing software, Gene
 
 <p><a href="https://github.com/YUGESHKARAN/attendance-app-dsu.git"><img src="./texts/ams-attendance-management-system.svg" align="absmiddle" alt="ams-attendance-management-system" /></a> —  Simplifying faculty workflows, smart analytics and real-time student insights.</p>
 
+## GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&layout=compact&hide=Jupyter%20Notebook)
+
 
 ---
