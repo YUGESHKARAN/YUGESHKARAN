@@ -3,11 +3,11 @@
 <div align="center">
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yugeshkaran01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?logo=devdotto&logoColor=white)](https://my-portfolio-eta-three-28.vercel.app/)
-[![Ready Tensor](https://img.shields.io/badge/Ready%20Tensor-FF0000?style=flat-square&logo=googleearth&logoColor=white)](https://app.readytensor.ai/users/yugeshkaran01)
 <a href="https://www.bytesbase.me">
   <img src="https://img.shields.io/badge/Launch%20Bytes%20Base-000000?logo=rocket&logoColor=white" alt="Launch Bytes Base" />
 </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?logo=devdotto&logoColor=white)](https://my-portfolio-eta-three-28.vercel.app/)
+[![Ready Tensor](https://img.shields.io/badge/Ready%20Tensor-0A0A0A?style=flat-square&logo=googleearth&logoColor=white)](https://app.readytensor.ai/users/yugeshkaran01)
 [![Email](https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:yugeshkaran01@gmail.com)
 
 </div>
