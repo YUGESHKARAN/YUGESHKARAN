@@ -66,12 +66,11 @@ Full Stack AI Engineer with expertise in designing and developing software, Gene
 ## GitHub Stats
 <table>
 	<tr>
-				<td><a href="https://my-portfolio-eta-three-28.vercel.app"><img src="https://streak-stats.demolab.com?user=YUGESHKARAN&theme=dark&hide_border=true"></a>			</td>
-		<td><a href=https://my-portfolio-eta-three-28.vercel.app"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUGESHKARAN&theme=dark"></a>			</td>
+	<td colspan="1"><a href="https://my-portfolio-eta-three-28.vercel.app"><img src="https://streak-stats.demolab.com?user=YUGESHKARAN&theme=dark&hide_border=false"></a>			</td>
+	<td colspan="1"><a href="https://my-portfolio-eta-three-28.vercel.app"><img src="https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"></a></td>	
 	</tr>
 	<tr>
-		<td><a href="https://my-portfolio-eta-three-28.vercel.app"><img src="https://github-readme-stats.shion.dev/api?username=YUGESHKARAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"></a></td>
-		<td ><a href="https://my-portfolio-eta-three-28.vercel.app"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YUGESHKARAN&theme=dark&layout=compact&hide=Jupyter%20Notebook"></a></td>
+	<td colspan="2" align="center"><a href=https://my-portfolio-eta-three-28.vercel.app"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUGESHKARAN&theme=dark"></a></td>
 	</tr>
 	</table>
 
