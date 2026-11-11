@@ -44,7 +44,7 @@ Full Stack AI Engineer with expertise in designing and developing software, Gene
 
 <p><a href="https://github.com/YUGESHKARAN/Tech-Community-App.git"><img src="./texts/bytes-base.svg" align="absmiddle" alt="Tech Terminal" /></a> — AI assisted Tech Community platform for universities/colleges.</p>
 
-<p><a href="https://github.com/YUGESHKARAN/indic_research_scholar.git"><img src="./texts/indic-research-scholar.svg" align="absmiddle" alt="Tech Terminal" /></a> — Upload, ask, and understand advanced research papers in your own indic language.</p>
+<p><a href="https://github.com/YUGESHKARAN/indic_research_scholar.git"><img src="./texts/indic-content-studio.svg" align="absmiddle" alt="Indic Content Studio" /></a> —  Converts scripts into editable short videos with Indic language support.</p>
 
 <p><a href="https://github.com/YUGESHKARAN/Assistant_Knowledge_Hub.git"><img src="./texts/assistant-knowledge-hub.svg" align="absmiddle" alt="Assistant Knowledge Hub" /></a> — A production grade RAG system built for the Bytes Base platform.</p>
 
